@@ -25,6 +25,7 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 - [Packages](#packages)
   - [Parsing](#parsing)
   - [Code Generation](#code-generation)
+  - [Other](#other)
 - [Gists & Snippets](#gists--snippets)
 
 ## Languages
@@ -59,11 +60,14 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 - [elm/parser](https://github.com/elm/parser/) - A parsing library, focused on simplicity and great error messages.
 - [dmy/elm-pratt-parser](https://github.com/dmy/elm-pratt-parser/) - Pratt / Top-Down Operator Precedence parsing for `elm/parser`.
 
-
 ### Code Generation
 
 - [the-sett/elm-pretty-printer](https://github.com/the-sett/elm-pretty-printer/) - A pretty printing library based on 'A Prettier Printer' by Philip Wadler.
 - [the-sett/salix](https://github.com/the-sett/salix/) - Salix is a data modelling language that is designed to support code generation across many different situations.
+
+### Other
+
+- [Janiczek/transform](https://github.com/Janiczek/transform/) - Transform recursive data structures from the bottom up.
 
 ## Gists & Snippets
 
