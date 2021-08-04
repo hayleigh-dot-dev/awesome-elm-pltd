@@ -42,6 +42,7 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 - [microkanren](https://github.com/dvberkel/microkanren/) - An Elm implementation of the μKanren language.
 - [lisa](https://github.com/chicode/lisa/) - A Lisp dialect designed for coding workshops
 - [ulmus](https://github.com/uzimaru0000/ulmus/) - Ulmus is a Lisp implementation made with Elm.
+- [elm-lisp](https://github.com/jxxcarlson/elm-lisp) - An experiment in writing `parse` and `eval` for a typed Lisp in Elm.
 
 ### Markup Languages
 
