@@ -44,6 +44,7 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 - [lisa](https://github.com/chicode/lisa/) - A Lisp dialect designed for coding workshops
 - [ulmus](https://github.com/uzimaru0000/ulmus/) - Ulmus is a Lisp implementation made with Elm.
 - [elm-lisp](https://github.com/jxxcarlson/elm-lisp) - An experiment in writing `parse` and `eval` for a typed Lisp in Elm.
+- [elm-scheme](https://github.com/akoppela/elm-scheme) - A Scheme implementation in Elm.
 
 ### Markup Languages
 
