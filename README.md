@@ -69,3 +69,4 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 > 🚨 **Note**: These are snippets or short bits of code that are mostly presented _without comment or explanation_, but might still be handy to use, copy, or learn from. If you're the author of any of these snippets, or have used them in your own work, consider writing a blog post or publishing a package so we can add those to this list instead! 
 
 - [Using the Node.js `repl` module with Elm.](https://gist.github.com/pd-andy/899bb2eec17c19f46d808cdf4d66771a)
+- [An implementation of linear types.](https://gist.github.com/jjant/bcad85349ebd68cfe88ec634dc2c645e)
