@@ -25,6 +25,7 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 - [Packages](#packages)
   - [Parsing](#parsing)
   - [Code Generation](#code-generation)
+- [Gists & Snippets](#gists--snippets)
 
 ## Languages
 
@@ -62,3 +63,9 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 
 - [the-sett/elm-pretty-printer](https://github.com/the-sett/elm-pretty-printer/) - A pretty printing library based on 'A Prettier Printer' by Philip Wadler.
 - [the-sett/salix](https://github.com/the-sett/salix/) - Salix is a data modelling language that is designed to support code generation across many different situations.
+
+## Gists & Snippets
+
+> 🚨 **Note**: These are snippets or short bits of code that are mostly presented _without comment or explanation_, but might still be handy to use, copy, or learn from. If you're the author of any of these snippets, or have used them in your own work, consider writing a blog post or publishing a package so we can add those to this list instead! 
+
+- [Using the Node.js `repl` module with Elm.](https://gist.github.com/pd-andy/899bb2eec17c19f46d808cdf4d66771a)
