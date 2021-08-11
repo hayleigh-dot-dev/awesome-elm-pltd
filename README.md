@@ -52,6 +52,7 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 - [elm-markup](https://github.com/mdgriffith/elm-markup/) - Elm Markup is a markup language that integrates closely with Elm.
 - [L1](https://github.com/jxxcarlson/L1) - A toy language demo for a fault-tolerant parser.
 - [CaYaTeX](https://github.com/jxxcarlson/cayatex) - CaYaTeX is an experimental markup language that compiles to LaTeX, Html, and (indirectly) PDF.
+- [LiaScript](https://github.com/liascript/liascript) - Markdown for interactive Open Educational Resources (ORT), with support for animations, text2speech, automated data analyzes & visualization, interactive coding, quizzes, ASCII-art and more ... It is also extendable due to an simple Macro-System.
 
 ## Packages
 
