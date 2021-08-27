@@ -26,7 +26,11 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
   - [Parsing](#parsing)
   - [Code Generation](#code-generation)
   - [Other](#other)
+- [Resources](#resources)
+  - [Talks & Videos](#talks--videos)
 - [Gists & Snippets](#gists--snippets)
+
+---
 
 ## Languages
 
@@ -54,6 +58,8 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 - [CaYaTeX](https://github.com/jxxcarlson/cayatex) - CaYaTeX is an experimental markup language that compiles to LaTeX, Html, and (indirectly) PDF.
 - [LiaScript](https://github.com/liascript/liascript) - Markdown for interactive [Open Educational Resources (OER)](https://en.wikipedia.org/wiki/Open_educational_resources), with support for animations, text2speech, automated data analyzes & visualization, interactive coding, quizzes, ASCII-art and more ... It is also extendable due to an simple Macro-System.
 
+---
+
 ## Packages
 
 ### Parsing
@@ -70,9 +76,22 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 
 - [Janiczek/transform](https://github.com/Janiczek/transform/) - Transform recursive data structures from the bottom up.
 
+---
+
+## Resources
+
+### Talks & Videos
+
+- [Fault-tolerant parsing and the L1 markup language.](https://www.youtube.com/watch?v=gqeqtZeDp18) - Jim talks about Fault-tolerant parsing and the L1 markup language at the Elm Online Meetup on August 4th 2021.
+- [Implementing the lambda calculus in Elm.](https://www.youtube.com/watch?v=93wbsfoX9iE) - Andrey talks about Implementing lambda calculus in Elm at the Elm Online Meetup on August 4th 2021.
+
+---
+
 ## Gists & Snippets
 
 > 🚨 **Note**: These are snippets or short bits of code that are mostly presented _without comment or explanation_, but might still be handy to use, copy, or learn from. If you're the author of any of these snippets, or have used them in your own work, consider writing a blog post or publishing a package so we can add those to this list instead! 
+
+### Gists
 
 - [Using the Node.js `repl` module with Elm.](https://gist.github.com/pd-andy/899bb2eec17c19f46d808cdf4d66771a)
 - [An implementation of linear types.](https://gist.github.com/jjant/bcad85349ebd68cfe88ec634dc2c645e)
