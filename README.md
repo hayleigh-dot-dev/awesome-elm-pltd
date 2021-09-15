@@ -96,3 +96,4 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 
 - [Using the Node.js `repl` module with Elm.](https://gist.github.com/pd-andy/899bb2eec17c19f46d808cdf4d66771a)
 - [An implementation of linear types.](https://gist.github.com/jjant/bcad85349ebd68cfe88ec634dc2c645e)
+- [Creating extensible ASTs using recursion schemes.](https://ellie-app.com/fjdwhCFR7JCa1)
