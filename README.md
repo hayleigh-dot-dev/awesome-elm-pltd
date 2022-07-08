@@ -72,6 +72,7 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 
 - [the-sett/elm-pretty-printer](https://github.com/the-sett/elm-pretty-printer/) - A pretty printing library based on 'A Prettier Printer' by Philip Wadler.
 - [the-sett/salix](https://github.com/the-sett/salix/) - Salix is a data modelling language that is designed to support code generation across many different situations.
+- [Janiczek/elm-sourcemap](https://github.com/Janiczek/elm-sourcemap) - A library for generating source maps (for use in browser step debuggers, handy for languages compiling to JavaScript).
 
 ### Other
 
