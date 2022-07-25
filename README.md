@@ -37,9 +37,10 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 ### Compilers
 
 - [elm-in-elm](https://github.com/elm-in-elm/compiler/) - Elm compiler written in Elm
-- [stabel](https://fossils.stabel-lang.org/compiler/home) - Stabel is a pure, concatenative and statically typed programming language.
 - [ren](https://github.com/ren-lang/compiler/) - Cleaner, clearer JavaScript. A functional scripting language for the Web.
 - [funkLang](https://github.com/funk-team/funkLang) - funkLang is a Visual FrontEnd Framework where you can design, develop and deploy complex web applications using both visual and code workflows.
+- [squarepants](https://github.com/xarvh/squarepants) - Squarepants is a programming language aimed at interactive applications.
+
 
 ### Interpreters
 
