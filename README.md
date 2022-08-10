@@ -52,6 +52,7 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 - [elm-lisp](https://github.com/jxxcarlson/elm-lisp) - An experiment in writing `parse` and `eval` for a typed Lisp in Elm.
 - [elm-scheme](https://github.com/akoppela/elm-scheme) - A Scheme implementation in Elm.
 - [leaf-lang](https://github.com/Orasund/leaf-lang) - A multi-paradigm scripting language for Elm.
+- [elm-monkey-interpreter](https://github.com/dwayne/elm-monkey-interpreter) - A [Monkey](https://monkeylang.org) interpreter written in Elm.
 
 ### Markup Languages
 
