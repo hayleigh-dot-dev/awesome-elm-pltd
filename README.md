@@ -40,7 +40,7 @@ Hopefully this list can rectify that! **At the moment** this list is a largely u
 - [ren](https://github.com/ren-lang/compiler/) - Cleaner, clearer JavaScript. A functional scripting language for the Web.
 - [funkLang](https://github.com/funk-team/funkLang) - funkLang is a Visual FrontEnd Framework where you can design, develop and deploy complex web applications using both visual and code workflows.
 - [squarepants](https://github.com/xarvh/squarepants) - Squarepants is a programming language aimed at interactive applications.
-
+- [guida](https://github.com/guida-lang/compiler) - functional programming language that builds upon the solid foundation of Elm, offering backward compatibility with all existing Elm 0.19.1 projects (based on a transpilation of Elm's Haskell source code to Elm)
 
 ### Interpreters
 
